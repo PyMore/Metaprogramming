@@ -20,6 +20,6 @@ And run
 
 ```shell
 
-$python main.py
+$python metaprogramming.py
 
 ```
